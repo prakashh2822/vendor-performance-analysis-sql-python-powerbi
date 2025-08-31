@@ -10,7 +10,7 @@ _Analyzing vendor efficiency and profitability to support strategic purchasing a
 - <a href = "#business-problem">Business Problem</a>
 - <a href = "#dataset">Dataset</a>
 - <a href = "#tools-technologies">Tools & technologies</a>
-- <a href = "# project-structure">Project Structure</a>
+- <a href = "#project-structure">Project Structure</a>
 - <a href = "#data-cleaning-preparation">Data cleaning &preparation</a>
 - <a href = "#exploratory-data-analysis-eda">Exploratory data analysis (EDA)</a>
 - <a href = "#research-questions-key-findings">Research questions and key findings</a>
