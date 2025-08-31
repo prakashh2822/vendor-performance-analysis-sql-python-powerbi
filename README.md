@@ -6,18 +6,18 @@ _Analyzing vendor efficiency and profitability to support strategic purchasing a
 
 ## Table of contents
 
-- <a href = "#overview>">Overview</a>
-- <a href = "#business-problem>">Business Problem</a>
-- <a href = "#dataset>">Dataset</a>
-- <a href = "#tools-technologies>">Tools & technologies</a>
-- <a href = "# project-structure>">Project Structure</a>
-- <a href = "#data-cleaning-preparation>">Data cleaning &preparation</a>
-- <a href = "#exploratory-data-analysis-eda>">Exploratory data analysis (EDA)</a>
-- <a href = "#research-questions-key-findings>">Research questions and key findings</a>
+- <a href = "#overview">Overview</a>
+- <a href = "#business-problem">Business Problem</a>
+- <a href = "#dataset">Dataset</a>
+- <a href = "#tools-technologies">Tools & technologies</a>
+- <a href = "# project-structure">Project Structure</a>
+- <a href = "#data-cleaning-preparation">Data cleaning &preparation</a>
+- <a href = "#exploratory-data-analysis-eda">Exploratory data analysis (EDA)</a>
+- <a href = "#research-questions-key-findings">Research questions and key findings</a>
 - <a href = "#dashboard">Dashboard</a>
-- <a href = "#how-to-run-this-project>">How to run this Project</a>
-- <a href = "#final-recommendations>">Final recommendations</a>
-- <a href = "#author-contact>">Author contact</a>
+- <a href = "#how-to-run-this-project">How to run this Project</a>
+- <a href = "#final-recommendations">Final recommendations</a>
+- <a href = "#author-contact">Author contact</a>
 
 ---
 
